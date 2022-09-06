@@ -10,5 +10,5 @@ Show Finder: https://tvshow-searcher.netlify.app
 - JavaScript
 - React
 
-## Author :bust_in_silhoutte:
+## Author :bust_in_silhouette:
 - [VianeyAileen](https://github.com/VianeyAileen)
